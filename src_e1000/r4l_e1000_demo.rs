@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: GPL-2.0
+
+//! Rust for linux e1000 driver demo
+
 #![allow(unused)]
 
 use core::iter::Iterator;
